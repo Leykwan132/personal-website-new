@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Kwan",
   initials: "LK",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://imkwan.com",
+  location: "Kuala Lumpur, Malaysia",
+  locationLink: "https://www.google.com/maps/place/Kuala+Lumpur",
   description:
     "Software Engineer based in Kuala Lumpur, Malaysia. \n Previously @Storehub, now at Ryt Bank.",
   summary:
@@ -180,7 +180,7 @@ export const DATA = {
       dates: "Dec 6th - 7th, 2024",
       location: "Kuala Lumpur, Malaysia",
       description:
-        "A vision-only traffic light system that cna detect speed, object detection accurately.",
+        "A vision-only traffic light system that can detect speed, object detection accurately.",
       image: "/setel.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [
