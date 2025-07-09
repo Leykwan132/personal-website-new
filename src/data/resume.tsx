@@ -145,6 +145,7 @@ export const DATA = {
       technologies: [],
       links: [
         {
+          title: "Website",
           type: "Website",
           href: "https://www.taxme-app.com/",
           icon: <Icons.globe className="size-3" />,
@@ -162,13 +163,7 @@ export const DATA = {
       description: "Tree structure LLM that utilized react nodes.",
       icon: "public",
       image: "/alibaba.png",
-      links: [
-        {
-          type: "Website",
-          href: "https://www.taxme-app.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
+      links: [],
     },
     {
       title: "Deriv AI Hackathon",
