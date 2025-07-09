@@ -189,11 +189,12 @@ export const DATA = {
       image: "/setel.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [
-        {
-          type: "Website",
-          href: "https://www.taxme-app.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   title: "Repo Link",
+        //   type: "Website",
+        //   href: "https://www.taxme-app.com/",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
       ],
     },
     {
